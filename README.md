@@ -1,4 +1,4 @@
-# Backcountry Scheduled Price Monitor
+# Bestbuy Product Review Scrapers
 Web scraper implemented in python using scrapy designed to pull all reviews of a specified product listing on bestbuy.com.
 
 # USAGE
